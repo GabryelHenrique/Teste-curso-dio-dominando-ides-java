@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70dbdd3d-7550-4422-a077-5ef6bfadfd5a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primeiro-programa-intellij.iml" afterDir="false" />
+    <list default="true" id="70dbdd3d-7550-4422-a077-5ef6bfadfd5a" name="Changes" comment="First Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,11 +51,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678197156682</updated>
-      <workItem from="1678197158488" duration="1825000" />
+      <workItem from="1678197158488" duration="3111000" />
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1678199408329</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678199408329</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
 </project>
